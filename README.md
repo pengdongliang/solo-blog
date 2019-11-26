@@ -38,8 +38,10 @@ pdl 的个人博客
 * [dva基础(书签大全)](https://www.p0d0.com/articles/2019/06/03/1573740578523.html)
 * [TortoiseGit使用笔记](https://www.p0d0.com/articles/2019/07/10/1573740584085.html)
 * [ant-design vue组件库使用后总结(书签)](https://www.p0d0.com/articles/2019/06/03/1573740603048.html)
-* [SSR](https://www.p0d0.com/articles/2019/06/02/1573740581445.html)
 * [web前端各浏览器兼容性问题(干货，亲测有效)](https://www.p0d0.com/articles/2019/06/03/1573740606163.html)
+* [SSR](https://www.p0d0.com/articles/2019/06/02/1573740581445.html)
+* [react-native使用react-navigation](https://www.p0d0.com/articles/2019/06/03/1573740601963.html)
+* [dva或umi框架使用mockjs模拟数据](https://www.p0d0.com/articles/2019/06/03/1573740578048.html)
 * [vue-cli2搭建的项目引入css报错的原因](https://www.p0d0.com/articles/2019/06/04/1573740580896.html)
 * [在ReactNative中使用Typescript(二)](https://www.p0d0.com/articles/2019/06/03/1573740581723.html)
 * [centos7 经常ssh连接不上, 网页打不开, 蚂蚁笔记打不开, ssr连不上, 关闭防火墙](https://www.p0d0.com/articles/2019/06/03/1573740586698.html)
@@ -51,8 +53,6 @@ pdl 的个人博客
 * [5cf6291354692105160000bb](https://www.p0d0.com/articles/2019/06/04/1573740601348.html)
 * [vue2.0入门基础](https://www.p0d0.com/articles/2019/06/04/1573740602414.html)
 * [轨迹展示-海量数据-高德地图API](https://www.p0d0.com/articles/2019/06/03/1573740606596.html)
-* [dva下的router(路由跳转传参)](https://www.p0d0.com/articles/2019/06/03/1573740607954.html)
-* [dva或umi框架使用mockjs模拟数据](https://www.p0d0.com/articles/2019/06/03/1573740578048.html)
 
 ### 热议
 
